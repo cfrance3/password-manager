@@ -1,0 +1,1 @@
+A basic password manager for use in the command line with plans to add GUI.
